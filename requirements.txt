@@ -16,17 +16,7 @@ beautifulsoup4==4.14.3
 bleach==6.3.0
 blinker==1.9.0
 branca==0.8.2
-brightway2==2.4.7
-brightway25==1.1.1
 brotli==1.2.0
-bw-migrations==0.2
-bw2analyzer==0.10
-bw2calc==1.8.2
-bw2data==3.6.6
-bw2io==0.8.12
-bw2parameters==1.1.0
-bw_processing==1.0
-bw_simapro_csv==0.4.3
 cachetools==7.0.5
 certifi==2026.2.25
 cffi==2.0.0
